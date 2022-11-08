@@ -102,7 +102,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
   <tr>
     <td>15</td>
-    <td>Video View App</td>
+    <td>Toggle Button App</td>
     <td>3 Points</td>
     <td>Class</td>
   </tr>
