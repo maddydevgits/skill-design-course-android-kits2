@@ -22,9 +22,30 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
   <tr>
     <td>2</td>
-    <td>Static Text App</td>
+    <td>Dynamic Text App</td>
     <td>3 Points</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Toast App</td>
+    <td>3 Points</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Button Toaster App</td>
+    <td>3 Points</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Button TextView App</td>
+    <td>3 Points</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>EditText </td>
+    <td>3 Points</td>
+  </tr>
+  
 </table>
 
 # For Questions
