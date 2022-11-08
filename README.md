@@ -39,11 +39,24 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>5</td>
     <td>Button TextView App</td>
     <td>3 Points</td>
+    <td>Assignment</td>
   </tr>
   <tr>
     <td>6</td>
     <td>EditText </td>
     <td>3 Points</td>
+  </tr>
+    <tr>
+    <td>7</td>
+    <td>Place a Logo for App</td>
+    <td>3 Points</td>
+    <td>Assignment</td>
+  </tr>
+    <tr>
+    <td>8</td>
+    <td>Place Username and Password and toast them</td>
+    <td>3 Points</td>
+    <td>Assignment</td>
   </tr>
   
 </table>
