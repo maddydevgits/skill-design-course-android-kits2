@@ -118,6 +118,30 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>3 Points</td>
     <td>Class</td>
   </tr>
+  <tr>
+    <td>18</td>
+    <td>Intent App</td>
+    <td>3 Points</td>
+    <td>Class</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Intent with Data App</td>
+    <td>3 Points</td>
+    <td>Class</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>SendSMS App</td>
+    <td>3 Points</td>
+    <td>Class</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>SendSMS Dynamic App</td>
+    <td>3 Points</td>
+    <td>Class</td>
+  </tr>
 </table>
 
 # For Questions
