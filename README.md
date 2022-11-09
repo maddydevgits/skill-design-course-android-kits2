@@ -144,5 +144,8 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
 </table>
 
+# Custom Gradles
+implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0'
+
 # For Questions
 For questions, you can reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
