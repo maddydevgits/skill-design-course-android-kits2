@@ -15,132 +15,162 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <th>Name of Task</th>
     <th>Points</th>
     <th>Type of Task</th>
+    <th>Day</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>Introduction to Android<br/>Installation of Android Studio</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day1</td>
   </tr>
   <tr>
     <td>1</td>
     <td>Hello Name App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day1</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Dynamic Text App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day2</td>
+    
   </tr>
   <tr>
     <td>3</td>
     <td>Toast App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day2</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Button Toaster App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day2</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Button TextView App</td>
     <td>3 Points</td>
     <td>Assignment</td>
+    <td>Day2</td>
   </tr>
   <tr>
     <td>6</td>
     <td>EditText </td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day2</td>
   </tr>
     <tr>
     <td>7</td>
     <td>Place a Logo for App</td>
     <td>3 Points</td>
     <td>Assignment</td>
+    <td>Day2</td>
   </tr>
   <tr>
     <td>8</td>
     <td>Place Username and Password and toast them</td>
     <td>3 Points</td>
     <td>Assignment</td>
+    <td>Day2</td>
   </tr>
   <tr>
     <td>9</td>
     <td>CheckBoxes App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Radio Buttons App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>11</td>
     <td>Image View App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>12</td>
     <td>Image Button App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>13</td>
     <td>Seek Bar App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>14</td>
     <td>Slide Switch App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>15</td>
     <td>Toggle Button App</td>
     <td>3 Points</td>
     <td>Assignment</td>
+    <td>Day3</td>
   </tr>
   <tr>
     <td>16</td>
     <td>WebView App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day4</td>
   </tr>
   <tr>
     <td>17</td>
     <td>VideoView App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day4</td>
   </tr>
   <tr>
     <td>18</td>
     <td>Intent App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day4</td>
   </tr>
   <tr>
     <td>19</td>
     <td>Intent with Data App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day4</td>
   </tr>
   <tr>
     <td>20</td>
     <td>SendSMS App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day4</td>
   </tr>
   <tr>
     <td>21</td>
     <td>SendSMS Dynamic App</td>
     <td>3 Points</td>
     <td>Class</td>
+    <td>Day4</td>
   </tr>
 </table>
 
