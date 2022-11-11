@@ -202,6 +202,151 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
 </table>
 
+# Index of Content
+
+<table>
+  <tr>
+    <th>SNo</th>
+    <th>Name of Chapter</th>
+    <th>Page No</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Introduction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Android Operating System</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Android Studio</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Installation of Android Studio, SDK</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Hello World App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Button Toaster App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Button TextView App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>EditText App </td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>9</td>
+    <td>Place a Logo for App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Place Username and Password and toast them</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>CheckBoxes App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Radio Buttons App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Image View App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Image Button App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Seek Bar App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Slide Switch App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Toggle Button App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>WebView App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>VideoView App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Star Rating App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Intent App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Intent with Data App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>SendSMS App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>SendSMS Dynamic App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Text to Speech App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>Speech to Text App</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Send Email App</td>
+    <td></td>
+  </tr>
+</table>
+
 # Custom Gradles
 implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0'
 
