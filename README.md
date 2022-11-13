@@ -200,6 +200,41 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>Class</td>
     <td>Day5</td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td>MySQL Table Demo</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day6</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Python MySQL Connector</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day6</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>API for MySQL using Flask</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day6</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>MySQL Android</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day6</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Registration Android</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day6</td>
+  </tr>
 </table>
 
 # Index of Content
@@ -349,6 +384,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 
 # Custom Gradles
 implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0'
+implementation 'com.android.volley:volley:1.2.1'
 
 # For Questions
 For questions, you can reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
