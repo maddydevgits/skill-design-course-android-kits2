@@ -209,31 +209,31 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
   </tr>
   <tr>
     <td>27</td>
-    <td>Python MySQL Connector</td>
+    <td>API for Flask Demo</td>
     <td>3 Points</td>
     <td>Class</td>
-    <td>Day6</td>
+    <td>Day7</td>
   </tr>
   <tr>
     <td>28</td>
     <td>API for MySQL using Flask</td>
     <td>3 Points</td>
     <td>Class</td>
-    <td>Day6</td>
+    <td>Day7</td>
   </tr>
   <tr>
     <td>29</td>
-    <td>MySQL Android</td>
-    <td>3 Points</td>
-    <td>Class</td>
-    <td>Day6</td>
-  </tr>
-  <tr>
-    <td>30</td>
     <td>Registration Android</td>
     <td>3 Points</td>
     <td>Class</td>
-    <td>Day6</td>
+    <td>Day7</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Firebase Android</td>
+    <td>3 Points</td>
+    <td>Class</td>
+    <td>Day8</td>
   </tr>
 </table>
 
