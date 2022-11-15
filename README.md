@@ -383,7 +383,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 </table>
 
 # Custom Gradles
-implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0'
+implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0' <br/>
 implementation 'com.android.volley:volley:1.2.1'
 
 # For Questions
